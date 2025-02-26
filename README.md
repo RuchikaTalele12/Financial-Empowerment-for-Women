@@ -1,5 +1,4 @@
-# Nari-Dhan
-NariDhan is an innovative financial platform dedicated to empowering women through accessible and customized investment strategies. The repository houses the core codebase for NariDhan, providing tools, algorithms, and features aimed at enhancing financial literacy and investment knowledge for women across diverse backgrounds. The project includes resources for personalized wealth management, investment tracking, and educational content focused on bridging the gender gap in financial decision-making.
+ an innovative financial platform dedicated to empowering women through accessible and customized investment strategies. The repository houses the core codebase for NariDhan, providing tools, algorithms, and features aimed at enhancing financial literacy and investment knowledge for women across diverse backgrounds. The project includes resources for personalized wealth management, investment tracking, and educational content focused on bridging the gender gap in financial decision-making.
 Key Features:
 
     Custom Investment Strategies: Algorithms designed to help women make informed decisions based on risk tolerance, investment goals, and financial background.
